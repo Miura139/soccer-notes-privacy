@@ -1,6 +1,6 @@
-# Soccer Notes – Privacy Policy
+# 3 Minute Soccer Notes – Privacy Policy
 
-iOS アプリ「サッカーノート / Soccer Notes」のプライバシーポリシーを GitHub Pages で公開するためのリポジトリです。
+iOS アプリ「3分で書けるサッカーノート / 3 Minute Soccer Notes」のプライバシーポリシーを GitHub Pages で公開するためのリポジトリです。
 
 - 公開 URL: https://miura139.github.io/soccer-notes-privacy/
 - 本文: [index.md](index.md)

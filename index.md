@@ -1,10 +1,10 @@
 # プライバシーポリシー / Privacy Policy
 
-最終更新日 / Last updated: 2026-09-06
+最終更新日 / Last updated: 2026-10-04
 
 ## 日本語
 
-「サッカーノート」（以下「本アプリ」）は、試合や練習の振り返りを記録するためのアプリです。
+「3分で書けるサッカーノート」（以下「本アプリ」）は、試合や練習の振り返りを記録するためのアプリです。
 
 ### 収集する情報
 
@@ -29,7 +29,7 @@ https://github.com/Miura139/football_reflection_notebook/issues
 
 ## English
 
-Soccer Notes (the "App") helps players reflect on matches and practice sessions.
+3 Minute Soccer Notes (the "App") helps players reflect on matches and practice sessions.
 
 ### Information we collect
 
